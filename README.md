@@ -26,7 +26,7 @@ For windows:
 For Mac/Linux
 --------------
 1.Search for terminal.<br>
-2.Then type python3 Passgen.py or python2 Passgen.py
+2.Then type python3 Passlist.py or python2 Passlist.py
 
 App Instructions
 -----------------
