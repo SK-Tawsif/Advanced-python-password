@@ -23,9 +23,7 @@ amount = int(input("Enter the amount of passwords: "))
 
 file=open('Database','a')
 
-try:
-   for x in range(amount):
+for x in range(amount):
                 Password = "".join(random.sample(all,length))
                 file.write(Password+'\n')
-except:
-    print("Something went wrong... Please try again")
+
