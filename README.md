@@ -9,7 +9,7 @@ Download/clone
 -------------
 Clone:
 1.Open your terminal(For windows it's called cmd & for mac/linux it's terminal)<br>
-2.Type git clone https://github.com/SK-Tawsif/Python-password.git
+2.Type git clone https://github.com/SK-Tawsif/Advanced-python-password.git
 
 Download:
 1.Click on the green button which says code<br>
