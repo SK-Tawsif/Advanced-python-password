@@ -1,5 +1,5 @@
 # Advanced-python-password
-This is the Advanced version of my previously released python password repository
+This is the Advanced version of my last python password repository
 ---------------------------------------------------------------------------------
 Requirements
 -------------
